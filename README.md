@@ -43,7 +43,7 @@ Loading [127.0.0.1:8000](127.0.0.1:8000) now should show the default Symfony 4 p
 
 ### Set up the Frontend
 
-Edit the Okta configuration in `src/main.js` to fill in your client ID and other application details. (Refer to the [accompanying blog post](https://developer.okta.com/blog/2018/06/14/php-crud-app-symfony-vue) for more details.) Then install the dependencies and run the server:
+Edit the Okta configuration in `src/main.js` to fill in your client ID and other application details. Then install the dependencies and run the server:
 
 ```
 cd bad-puns-tracker-client-vue
